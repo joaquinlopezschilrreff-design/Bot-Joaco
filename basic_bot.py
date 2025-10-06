@@ -81,4 +81,5 @@ async def _bot(ctx):
     await ctx.send('Yes, the bot is cool.')
 
 
-bot.run("MTQyMjM1MzEyMjE3MjQ2OTMyMg.GPCCWo.1vspdsV4kW-okaqsM-55K4tyU2fRrcEwKCS7CY")
+
+bot.run("TU TOKEN VA ACA")
